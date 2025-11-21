@@ -1,16 +1,4 @@
 # Deepfake-Detection
-# Detecting Deepfakes Across Modalities: A Multi-Modal Approach to Video, Audio, Image, and Text Analysis
-
-## Project Overview
-
-This dissertation project investigates and implements a robust defense mechanism against the rapidly expanding threat of synthetic media across four critical domains: **Text, Image, Video, and Audio**. The core deliverable is a **Unified Multi-Modal Hybrid Architecture** designed to proactively counter the increasing scale and sophistication of deepfakes.
-
-### 👤 Author and Supervision
-*   **Author:** Rishi Raj Sharma (Roll No: 2402519)
-*   **Degree:** Master of Science in Computer Science
-*   **Supervisor:** Dr. Prem Sewak Sudhish
-*   **Institution:** Dayalbagh Educational Institute, AGRA (UP)
-
 ## 🎯 Motivation and Critical Problem
 
 The fundamental motivation stems from the failure of existing deepfake detection models (across all modalities) to **generalize robustly against rapidly evolving, multi-modal "in-the-wild" attacks**.
